@@ -1,0 +1,37 @@
+post_id,date,weekday,post_type,topic,reach,impressions,likes,comments,shares,saves,engagement,engagement_rate_pct,profile_visits,new_followers
+P01,2026-08-01,Sat,Reel,Packing orders timelapse,6243,8546,379,88,60,95,622,9.96,258,70
+P02,2026-08-04,Tue,Reel,Karahi cooking reel,6058,8015,533,84,59,97,773,12.76,291,25
+P03,2026-08-05,Wed,Image,Price list post,1862,2296,134,9,10,10,163,8.75,84,12
+P04,2026-08-07,Fri,Carousel,Bulk order announcement,4131,5505,279,29,54,54,416,10.07,110,24
+P05,2026-08-10,Mon,Reel,Kitchen behind the scenes,5257,7125,408,83,52,62,605,11.51,282,66
+P06,2026-08-12,Wed,Image,Menu poll / question,1863,2669,106,14,11,12,143,7.68,102,14
+P07,2026-08-14,Fri,Carousel,Weekly menu carousel,4858,5946,382,72,39,37,530,10.91,206,27
+P08,2026-08-15,Sat,Reel,Festival special reel,8530,11113,928,75,46,153,1202,14.09,201,17
+P09,2026-08-18,Tue,Reel,Biryani recipe reel,5057,6394,468,68,38,24,598,11.83,302,56
+P10,2026-08-21,Fri,Carousel,New dish announcement,5663,7424,603,23,61,76,763,13.47,173,36
+P11,2026-08-22,Sat,Reel,Desi dessert reel,6331,7780,513,59,85,102,759,11.99,253,29
+P12,2026-08-26,Wed,Image,Customer review screenshot,2724,3257,292,20,27,34,373,13.69,137,25
+P13,2026-08-28,Fri,Reel,Packing orders timelapse,9433,13477,818,37,61,40,956,10.13,520,128
+P14,2026-08-29,Sat,Reel,Karahi cooking reel,7242,9384,423,105,97,37,662,9.14,164,38
+P15,2026-08-30,Sun,Image,Price list post,2539,3584,159,24,22,19,224,8.82,93,11
+P16,2026-09-01,Tue,Carousel,Bulk order announcement,3650,4909,360,23,23,65,471,12.9,136,24
+P17,2026-09-05,Sat,Reel,Kitchen behind the scenes,6375,7752,436,51,60,46,593,9.3,145,29
+P18,2026-09-14,Mon,Image,Menu poll / question,1863,2516,203,26,7,13,249,13.37,53,5
+P19,2026-09-18,Fri,Carousel,Weekly menu carousel,5573,6727,497,53,64,85,699,12.54,133,22
+P20,2026-09-23,Wed,Reel,Festival special reel,6225,7342,516,79,64,110,769,12.35,224,33
+P21,2026-09-24,Thu,Reel,Biryani recipe reel,7855,9689,549,49,62,77,737,9.38,235,62
+P22,2026-09-27,Sun,Carousel,New dish announcement,3453,4836,368,36,12,62,478,13.84,202,53
+P23,2026-09-30,Wed,Reel,Desi dessert reel,7807,9115,507,76,41,75,699,8.95,274,75
+P24,2026-10-04,Sun,Image,Customer review screenshot,1909,2765,194,18,14,33,259,13.57,80,17
+P25,2026-10-09,Fri,Reel,Packing orders timelapse,6532,8977,475,102,61,75,713,10.92,145,28
+P26,2026-10-14,Wed,Reel,Karahi cooking reel,6520,7861,692,38,88,33,851,13.05,285,61
+P27,2026-10-15,Thu,Image,Price list post,1871,2499,116,27,10,23,176,9.41,68,13
+P28,2026-10-16,Fri,Carousel,Bulk order announcement,4520,5734,502,29,49,33,613,13.56,211,29
+P29,2026-10-20,Tue,Reel,Kitchen behind the scenes,5826,8440,583,28,46,104,761,13.06,133,16
+P30,2026-10-21,Wed,Image,Menu poll / question,1909,2285,211,27,24,17,279,14.61,101,22
+P31,2026-10-22,Thu,Carousel,Weekly menu carousel,3797,4707,433,44,11,58,546,14.38,176,47
+P32,2026-10-23,Fri,Reel,Festival special reel,6436,8569,398,34,58,50,540,8.39,313,37
+P33,2026-10-24,Sat,Reel,Biryani recipe reel,8761,10317,620,86,113,138,957,10.92,323,43
+P34,2026-10-26,Mon,Carousel,New dish announcement,2557,3363,258,29,15,36,338,13.22,94,7
+P35,2026-10-27,Tue,Reel,Desi dessert reel,4929,6529,532,73,44,77,726,14.73,127,13
+P36,2026-10-29,Thu,Image,Customer review screenshot,1963,2381,213,26,24,32,295,15.03,58,5
