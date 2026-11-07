@@ -1,5 +1,7 @@
 # P9 — Instagram Business Analytics Report
 
+**Repo:** https://github.com/mhkh-stock/p9-instagram-analytics-report
+
 **Client pain:** a small business owner posts regularly but has no
 idea why some posts grow the page and others do nothing — so every
 week's content is a guess, and the guess usually repeats the weakest
