@@ -27,6 +27,6 @@ Instagram Insights export, not from order placement.
 **Proof this service works:** this repo's sample — fictional
 DesiBites PK, 36 posts over 90 days, 178,122 reach, 11.53% overall
 engagement rate, carousels beating Reels on engagement rate
-(12.77% vs 11.25%), followers 8,420 → 9,581, 19 automated checks
+(12.71% vs 11.14%), followers 8,420 → 9,581, 22 automated checks
 passing. The sample report is the demo the buyer sees before
 ordering.

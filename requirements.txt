@@ -1,0 +1,5 @@
+# P9 — Instagram Business Analytics Report
+# Pinned to the versions the sample was built and verified with
+# (Python 3.12). Install with: pip install -r requirements.txt
+reportlab==5.0.1
+matplotlib==3.6.3

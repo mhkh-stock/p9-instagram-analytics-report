@@ -61,6 +61,14 @@ check("carousels beat reels on engagement rate",
       / sum(r["reach"] for r in rows if r["post_type"] == "Carousel")
       > 100.0 * sum(r["engagement"] for r in rows if r["post_type"] == "Reel")
       / sum(r["reach"] for r in rows if r["post_type"] == "Reel"))
+# By-type rates are AGGREGATE (total engagement / total reach), the single
+# definition used by build_report.py and the PDF. (An earlier README draft
+# quoted the mean of per-post rates instead: 12.77 / 11.66 / 11.25.)
+for t, exp in (("Carousel", 12.71), ("Image", 11.68), ("Reel", 11.14)):
+    s = [r for r in rows if r["post_type"] == t]
+    got = 100.0 * sum(r["engagement"] for r in s) / sum(r["reach"] for r in s)
+    check(f"{t} aggregate engagement rate {exp:.2f}%",
+          abs(got - exp) < 0.01, f"got {got:.2f}%")
 check("top post is P36 (customer review screenshot, 15.03%)",
       max(rows, key=lambda r: r["engagement_rate_pct"])["post_id"] == "P36")
 check("PDF report exists and is non-trivial",

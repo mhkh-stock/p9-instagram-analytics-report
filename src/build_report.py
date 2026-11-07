@@ -47,7 +47,9 @@ overall_er = 100.0 * total_eng / total_reach
 gross_follows = sum(r["new_followers"] for r in rows)
 START_F, END_F = 8420, 9581
 assert END_F - START_F == gross_follows - 58, "follower arithmetic"
-assert len(rows) == 36
+# No assert on the post count: a real client's export has whatever
+# number of posts it has, and every figure above is computed from
+# the rows. (The sample's 36 posts are pinned by src/checks.py.)
 
 by_type = {}
 for t in ("Reel", "Carousel", "Image"):
